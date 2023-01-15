@@ -9,4 +9,5 @@ A collection of some neural networks implemented by me. All credits for the arch
 
 ## TODO:
 - [ ] Create a toy example for the ConvNet
-- [ ] Create a toy exameple for the GAN + clean up the code
+- [ ] Create a toy example for the GAN + clean up the code
+- [ ] Create a toy exmple for the WGAN + clean up the code
