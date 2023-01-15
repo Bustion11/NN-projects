@@ -4,6 +4,8 @@ A collection of some neural networks implemented by me. All credits for the arch
 
 ## Implemented:
 - [A ConvNet for the 2020s](https://github.com/Bustion11/NN-projects/tree/main/ConvNet)
+- [Generative Adversarial Networks](https://github.com/Bustion11/NN-projects/tree/main/GAN)
 
 ## TODO:
 - [ ] Create a toy example for the ConvNet
+- [ ] Create a toy exameple for the GAN + clean up the code
