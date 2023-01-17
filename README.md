@@ -11,6 +11,7 @@ A collection of some neural networks implemented by me. All credits for the arch
 ## Implemented, but awaits training:
 - [UNet]()
 - [YoLo v1]()
+- [SchNet]()
 ## Future projects:
 - Original Transformer
 - Graph Convolutional Networks
