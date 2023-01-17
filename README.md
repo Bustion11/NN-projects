@@ -10,7 +10,7 @@ A collection of some neural networks implemented by me. All credits for the arch
 - [DDPM]()
 ## Implemented, but awaits training:
 - [UNet]()
-- [YoLo v1]()
+- [StyleGAN]()
 - [SchNet]()
 ## Future projects:
 - Original Transformer
