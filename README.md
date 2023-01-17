@@ -7,7 +7,6 @@ A collection of some neural networks implemented by me. All credits for the arch
 - [Generative Adversarial Networks (GAN)](https://github.com/Bustion11/NN-projects/tree/main/GAN)
 - [Improved Training of Wasserstein GANs](https://github.com/Bustion11/NN-projects/tree/main/ITWGAN)
 - [Progressive GAN]()
-- [DDPM]()
 ## Implemented, but awaits training:
 - [UNet]()
 - [StyleGAN]()
