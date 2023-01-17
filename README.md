@@ -12,6 +12,6 @@ A collection of some neural networks implemented by me. All credits for the arch
 - [StyleGAN](https://github.com/Bustion11/NN-projects/tree/main/SGAN)
 - [SchNet](https://github.com/Bustion11/NN-projects/tree/main/SchNet)
 ## Future projects:
-- Original Transformer
+- The Original Transformer
 - Graph Convolutional Networks
 - Graph Attention Networks
